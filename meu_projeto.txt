@@ -7,7 +7,9 @@ quando sopra o vento
 e chuva desaba,
 veludo escondido
 na pele enrugada,
-água pura, ar puro,
+
+##############
+
 puro pensamento.
 Morrer acontece
 com o que é breve e passa
